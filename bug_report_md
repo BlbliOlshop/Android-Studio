@@ -1,0 +1,25 @@
+# Penjelasan
+
+---
+
+**File / Components**
+
+'Berikut file penting yang harus diketahui yang ada di direktory Android:'
+
+- src – Ini berisi file .java pada proyek Anda. Secara default, itu termasuk file MainActivity.java yang memiliki kelas aktivitas dan berjalan ketika aplikasi diluncurkan dengan menggunakan app icon.
+generated 
+
+– ini berisi file .R, file compiler yang dihasilkan yang menjadi referensi semua sumber daya yang ada dalam proyek Anda. Anda tidak seharusnya memodifikasi file ini.
+bin 
+
+– Folder ini berisi file-file paket Android APK yang dibangun oleh ADT selama proses pembangunan yang merupakan segala sesuatu yang diperlukan untuk menjalankan aplikasi Android.
+res/drawable-hdpi
+
+– Ini adalah direktori untuk drawable objects yang berfungsi untuk menampilkan interface aplikasi pada layar.
+res / layout – Ini adalah direktori untuk file yang mendefinisikan interface aplikasi.
+
+res / values 
+
+– Ini adalah direktori untuk berbagai file XML yang merupakan kumpulan resource, seperti string dan colors definitions.
+AndroidManifest.xml 
+– ini adalah file manifest yang menggambarkan karakteristik mendasar dari aplikasi dan merupakan definisi dari masing-masing komponennya.
