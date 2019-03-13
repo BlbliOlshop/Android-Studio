@@ -31,3 +31,4 @@ match_parent adalah script mengisi penuh sesuai lebar/tinggi layar
 9.untuk mengecek berhasil atau tidak aplikasi kita,kita bisa menggunakan cara klik Build kemudian klik Build apk atau kita bisa run lewat Android studio (tapi tidak disarankan karena membutuhkan ram tinggi) jika sudah di build apk akan keluar notifikasi bahwa apk sudah di buat,klik notifikasi itu dan copy file apk ke hp kita lalu di instal di hp kita.setelah terinstal app yg kita buat maka akan keluar tampilan seperti pada gambar berikut
 dan selamat anda berhasil membuat 1 aplikasi android Hello World.
 semoga ilmu ini bermanfaat jika ada pertanyaan bisa lewat fb:Kalif Ardy atau langsung komen di artikel ini trimakasih'
+[Next](https://github.com/BlbliOlshop/Android-Studio/pull/1#issue-260838127)
