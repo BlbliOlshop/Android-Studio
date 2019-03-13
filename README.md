@@ -32,3 +32,4 @@ match_parent adalah script mengisi penuh sesuai lebar/tinggi layar
 dan selamat anda berhasil membuat 1 aplikasi android Hello World.
 semoga ilmu ini bermanfaat jika ada pertanyaan bisa lewat fb:Kalif Ardy atau langsung komen di artikel ini trimakasih'
 [Next](https://github.com/BlbliOlshop/Android-Studio/pull/1#issue-260838127)
+lihat [TUTORIAL](https://github.com/BlbliOlshop/Android-Studio.wiki.git)
